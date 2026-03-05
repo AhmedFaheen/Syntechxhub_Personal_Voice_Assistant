@@ -1,0 +1,8 @@
+open youtube
+open google
+search machine learning tutorials
+what is the time
+open notepad
+open calculator
+help
+exit
